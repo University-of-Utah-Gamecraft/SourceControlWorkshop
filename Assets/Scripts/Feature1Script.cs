@@ -9,7 +9,7 @@ public class Feature1Script : MonoBehaviour {
 
     // Start is called before the first frame update
     void Start() {
-        Debug.Log("Hello from feature 1! (:");
+        Debug.Log("Hi from feature 1! (:");
     }
 
     // Update is called once per frame
